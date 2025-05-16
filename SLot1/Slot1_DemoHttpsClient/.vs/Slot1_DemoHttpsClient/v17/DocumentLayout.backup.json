@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\PRN222\\Slot1_DemoHttpsClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA0BECE-DBD6-4A17-A25D-FC66F5DC5E2F}|Slot1_DemoHttpsClient\\Slot1_DemoHttpsClient.csproj|c:\\users\\acer\\desktop\\prn222\\slot1_demohttpsclient\\slot1_demohttpsclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FA0BECE-DBD6-4A17-A25D-FC66F5DC5E2F}|Slot1_DemoHttpsClient\\Slot1_DemoHttpsClient.csproj|solutionrelative:slot1_demohttpsclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FA0BECE-DBD6-4A17-A25D-FC66F5DC5E2F}|Slot1_DemoHttpsClient\\Slot1_DemoHttpsClient.csproj|c:\\users\\acer\\desktop\\prn222\\slot1_demohttpsclient\\slot1_demohttpsclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7FA0BECE-DBD6-4A17-A25D-FC66F5DC5E2F}|Slot1_DemoHttpsClient\\Slot1_DemoHttpsClient.csproj|solutionrelative:slot1_demohttpsclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\PRN222\\Slot1_DemoHttpsClient\\Slot1_DemoHttpsClient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Slot1_DemoHttpsClient\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\PRN222\\Slot1_DemoHttpsClient\\Slot1_DemoHttpsClient\\MainWindow.xaml",
+              "RelativeToolTip": "Slot1_DemoHttpsClient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-14T07:45:07.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\PRN222\\Slot1_DemoHttpsClient\\Slot1_DemoHttpsClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Slot1_DemoHttpsClient\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\PRN222\\Slot1_DemoHttpsClient\\Slot1_DemoHttpsClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Slot1_DemoHttpsClient\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T07:45:06.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
