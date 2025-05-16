@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\PRN222\SLot2\Slot2_DemoUsingTask4\Slot2_DemoUsingTask4\bin\Debug\net8.0\Slot2_DemoUsingTask4.exe
+C:\Users\ACER\Desktop\PRN222\SLot2\Slot2_DemoUsingTask4\Slot2_DemoUsingTask4\bin\Debug\net8.0\Slot2_DemoUsingTask4.deps.json
+C:\Users\ACER\Desktop\PRN222\SLot2\Slot2_DemoUsingTask4\Slot2_DemoUsingTask4\bin\Debug\net8.0\Slot2_DemoUsingTask4.runtimeconfig.json
+C:\Users\ACER\Desktop\PRN222\SLot2\Slot2_DemoUsingTask4\Slot2_DemoUsingTask4\bin\Debug\net8.0\Slot2_DemoUsingTask4.dll
+C:\Users\ACER\Desktop\PRN222\SLot2\Slot2_DemoUsingTask4\Slot2_DemoUsingTask4\bin\Debug\net8.0\Slot2_DemoUsingTask4.pdb
+C:\Users\ACER\Desktop\PRN222\SLot2\Slot2_DemoUsingTask4\Slot2_DemoUsingTask4\obj\Debug\net8.0\Slot2_DemoUsingTask4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\PRN222\SLot2\Slot2_DemoUsingTask4\Slot2_DemoUsingTask4\obj\Debug\net8.0\Slot2_DemoUsingTask4.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\PRN222\SLot2\Slot2_DemoUsingTask4\Slot2_DemoUsingTask4\obj\Debug\net8.0\Slot2_DemoUsingTask4.AssemblyInfo.cs
+C:\Users\ACER\Desktop\PRN222\SLot2\Slot2_DemoUsingTask4\Slot2_DemoUsingTask4\obj\Debug\net8.0\Slot2_DemoUsingTask4.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\PRN222\SLot2\Slot2_DemoUsingTask4\Slot2_DemoUsingTask4\obj\Debug\net8.0\Slot2_DemoUsingTask4.sourcelink.json
+C:\Users\ACER\Desktop\PRN222\SLot2\Slot2_DemoUsingTask4\Slot2_DemoUsingTask4\obj\Debug\net8.0\Slot2_DemoUsingTask4.dll
+C:\Users\ACER\Desktop\PRN222\SLot2\Slot2_DemoUsingTask4\Slot2_DemoUsingTask4\obj\Debug\net8.0\refint\Slot2_DemoUsingTask4.dll
+C:\Users\ACER\Desktop\PRN222\SLot2\Slot2_DemoUsingTask4\Slot2_DemoUsingTask4\obj\Debug\net8.0\Slot2_DemoUsingTask4.pdb
+C:\Users\ACER\Desktop\PRN222\SLot2\Slot2_DemoUsingTask4\Slot2_DemoUsingTask4\obj\Debug\net8.0\Slot2_DemoUsingTask4.genruntimeconfig.cache
+C:\Users\ACER\Desktop\PRN222\SLot2\Slot2_DemoUsingTask4\Slot2_DemoUsingTask4\obj\Debug\net8.0\ref\Slot2_DemoUsingTask4.dll
