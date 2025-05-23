@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Slot3_DemoAsyncWPF/1.0.0": {
+        "runtime": {
+          "Slot3_DemoAsyncWPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Slot3_DemoAsyncWPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
