@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\PRN222\SLot3\Slot3_DemoPLINQ\Slot3_DemoPLINQ\bin\Debug\net8.0\Slot3_DemoPLINQ.exe
+C:\Users\ACER\Desktop\PRN222\SLot3\Slot3_DemoPLINQ\Slot3_DemoPLINQ\bin\Debug\net8.0\Slot3_DemoPLINQ.deps.json
+C:\Users\ACER\Desktop\PRN222\SLot3\Slot3_DemoPLINQ\Slot3_DemoPLINQ\bin\Debug\net8.0\Slot3_DemoPLINQ.runtimeconfig.json
+C:\Users\ACER\Desktop\PRN222\SLot3\Slot3_DemoPLINQ\Slot3_DemoPLINQ\bin\Debug\net8.0\Slot3_DemoPLINQ.dll
+C:\Users\ACER\Desktop\PRN222\SLot3\Slot3_DemoPLINQ\Slot3_DemoPLINQ\bin\Debug\net8.0\Slot3_DemoPLINQ.pdb
+C:\Users\ACER\Desktop\PRN222\SLot3\Slot3_DemoPLINQ\Slot3_DemoPLINQ\obj\Debug\net8.0\Slot3_DemoPLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\PRN222\SLot3\Slot3_DemoPLINQ\Slot3_DemoPLINQ\obj\Debug\net8.0\Slot3_DemoPLINQ.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\PRN222\SLot3\Slot3_DemoPLINQ\Slot3_DemoPLINQ\obj\Debug\net8.0\Slot3_DemoPLINQ.AssemblyInfo.cs
+C:\Users\ACER\Desktop\PRN222\SLot3\Slot3_DemoPLINQ\Slot3_DemoPLINQ\obj\Debug\net8.0\Slot3_DemoPLINQ.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\PRN222\SLot3\Slot3_DemoPLINQ\Slot3_DemoPLINQ\obj\Debug\net8.0\Slot3_DemoPLINQ.sourcelink.json
+C:\Users\ACER\Desktop\PRN222\SLot3\Slot3_DemoPLINQ\Slot3_DemoPLINQ\obj\Debug\net8.0\Slot3_DemoPLINQ.dll
+C:\Users\ACER\Desktop\PRN222\SLot3\Slot3_DemoPLINQ\Slot3_DemoPLINQ\obj\Debug\net8.0\refint\Slot3_DemoPLINQ.dll
+C:\Users\ACER\Desktop\PRN222\SLot3\Slot3_DemoPLINQ\Slot3_DemoPLINQ\obj\Debug\net8.0\Slot3_DemoPLINQ.pdb
+C:\Users\ACER\Desktop\PRN222\SLot3\Slot3_DemoPLINQ\Slot3_DemoPLINQ\obj\Debug\net8.0\Slot3_DemoPLINQ.genruntimeconfig.cache
+C:\Users\ACER\Desktop\PRN222\SLot3\Slot3_DemoPLINQ\Slot3_DemoPLINQ\obj\Debug\net8.0\ref\Slot3_DemoPLINQ.dll
