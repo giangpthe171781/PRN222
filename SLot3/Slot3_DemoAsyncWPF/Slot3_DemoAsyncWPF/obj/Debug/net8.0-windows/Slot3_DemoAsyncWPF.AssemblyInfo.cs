@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Slot3_DemoAsyncWPF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fc1d98e823615ef3a1dc3770cfcca244027edcd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b82f04b32b240012f285de310e7795a24fec28c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Slot3_DemoAsyncWPF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Slot3_DemoAsyncWPF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

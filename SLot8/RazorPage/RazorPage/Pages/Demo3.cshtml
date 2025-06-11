@@ -1,0 +1,15 @@
+﻿@page
+@model RazorPage.Pages.Demo3Model
+@{
+}
+<div style="margin-top:30px;">
+    <form method="post">
+        <div>Name: <input asp-for="Name" /></div>
+        <div><input value="submit3" type="submit" /></div>
+    </form>
+
+    @if (!string.IsNullOrEmpty(Model.Name))
+    {
+        <p>Hello @Model.Name!</p>
+    }
+</div>
